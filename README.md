@@ -4,10 +4,13 @@ At the moment there is only one vet and the only animals the practice sees along
  
 Animal
 Appointment time required
+
 Dog
 60 minutes
+
 Cat
 45 minutes
+
 Rabbit
 30 minutes
  
